@@ -6,9 +6,6 @@ url: https://imbricate.io
 github_username: Imbricate
 theme: minima
 repository: imbricate/imbricate.io
-plugins_dir: common/_plugins
-layouts_dir: common/_layouts
-includes_dir: common/_includes
 markdown: kramdown
 kramdown:
   input: GFM
