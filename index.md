@@ -13,3 +13,9 @@ Using the Imbricate CLI is the fastest way to get started with Imbricate. Instal
 ```bash
 npm install -g imbricate
 ```
+
+## Develop with Imbricate
+
+Find out the fundamentals of the design of Imbricate framework. Learn how to build your own interface or staging core.
+
+See the [Develop with Imbricate](/develop) guide.
