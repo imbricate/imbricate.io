@@ -10,9 +10,16 @@ Imbricate is a framework to build document storage and sharing platform. With Im
 
 Using the Imbricate CLI is the fastest way to get started with Imbricate. Install the CLI using npm:
 
-```shell
+{% capture install-imbricate %}
 npm install -g imbricate
-```
+{% endcapture %}
+
+{% include copyable/copyable-text-highlight.html
+    no-dynamic-warning=true
+    shell="any-terminal"
+    language="shell"
+    text=install-imbricate
+%}
 
 Interested in something other than a CLI? Check out the [Awesome Imbricate](/awesome) list for what our community built.
 

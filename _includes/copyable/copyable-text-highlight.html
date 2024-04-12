@@ -1,0 +1,88 @@
+{% capture file-text %}
+
+{{ include.text }}
+
+{% endcapture %}
+
+{% if file-text contains "://" or include.shell %}
+
+{% capture shell-type %}
+{% if include.shell == "any-terminal" %}
+&nbsp;any terminal shell
+{% else %}
+&nbsp;{{ include.shell }}
+{% endif %}
+{% endcapture %}
+
+<blockquote>
+    <p>
+        {% if include.shell %}
+
+        With{{ shell-type | strip }},
+
+        {% if include.sudo %}
+        with super user permission,
+        {% elsif include.admin %}
+        with administrator permission,
+        {% endif %}
+
+        run the following command.
+
+        {% endif %}
+
+        {% if include.no-dynamic-warning %}
+
+        {% else %}
+
+        {% if include.shell and file-text contains "://" %}
+
+        <br>
+
+        {% endif %}
+
+        {% if file-text contains "://" %}
+
+        This code snippet contains and uses dynamic content. Please inspect any dynamic content before running to ensure
+        safety. We take security seriously and have already verified they are safe, but you should always verify the
+        security and contents of any script from the internet you are not familiar with.
+
+        {% endif %}
+
+        {% endif %}
+
+        {% assign replaces = include.replaces | split: "," %}
+
+        {% for replace in replaces %}
+
+        {% if forloop.first %}
+        <br>
+        {% endif %}
+
+        {% assign replaceElements = replace | split: ":" %}
+        {% assign replaceKey = replaceElements[0] %}
+        {% assign replaceValue = replaceElements[1] %}
+
+        Replace <code>
+            &lt;{{ replaceKey }}>
+        </code> with <em>{{ replaceValue }}</em>
+
+        {% if forloop.last == false %}
+        <br>
+        {% endif %}
+
+        {% endfor %}
+    </p>
+</blockquote>
+
+{% endif %}
+
+<div class="copyable-code-container">
+    <div data-lang="{{ include.language }}" class="copyable-code-language">
+    </div>
+    {% include highlight/text-highlight.html
+    language=include.language
+    text=file-text
+    %}
+    <button class="copyable-code-button" title="COPY">
+    </button>
+</div>
