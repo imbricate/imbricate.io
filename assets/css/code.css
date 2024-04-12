@@ -1,0 +1,142 @@
+pre {
+
+    padding: 8px;
+    border: 1px solid #4444BB;
+    border-radius: 0px !important;
+    border-right: 4px solid #4444BB;
+    padding-top: 36px;
+}
+
+figure {
+    margin: 0px;
+    padding: 0px;
+}
+
+code[data-lang] {
+
+    display: inline-block;
+    font-family: 'Fira Code', monospace;
+}
+
+pre::-webkit-scrollbar {
+
+    width: 18px;
+    height: 18px;
+}
+
+pre::-webkit-scrollbar-track {
+
+    border-top: 1px solid #4444BB;
+    background-color: #EEEEFF;
+}
+
+pre::-webkit-scrollbar-thumb {
+
+    background-color: #888888;
+}
+
+pre::-webkit-scrollbar-thumb:hover {
+
+    background-color: #555555;
+}
+
+.copyable-code-container {
+
+    position: relative;
+}
+
+.copyable-code-button {
+
+    position: absolute;
+    top: 6px;
+    right: 9px;
+
+    font-size: 1rem;
+    background-color: transparent;
+
+    border: none;
+    border-radius: 4px;
+    padding: 4px;
+    transition: all 0.2s;
+
+    cursor: pointer;
+}
+
+.copyable-code-language {
+
+    position: absolute;
+    font-family: 'Fira Code', monospace;
+    top: 8px;
+    left: 9px;
+}
+
+.copyable-code-language::before {
+
+    text-transform: uppercase;
+    content: attr(data-lang);
+    position: sticky;
+    left: 0;
+    top: 0;
+    display: block;
+    text-align: left;
+    color: darkgray;
+}
+
+.copyable-code-button:hover {
+
+    background-color: lightgray;
+}
+
+.copyable-code-button::before {
+
+    content: "📋";
+}
+
+.copyable-code-button.copied::before {
+
+    content: "✔️";
+}
+
+.copyable-block-container {
+
+    position: relative;
+    padding-left: 30px;
+}
+
+.copyable-block-blockquote {
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.copyable-block-button {
+
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+    font-size: 1rem;
+    background-color: transparent;
+
+    border: none;
+    border-radius: 4px;
+    padding: 4px;
+    transition: all 0.2s;
+
+    cursor: pointer;
+}
+
+.copyable-block-button:hover {
+
+    background-color: lightgray;
+}
+
+.copyable-block-button::before {
+
+    content: "📋";
+}
+
+.copyable-block-button.copied::before {
+
+    content: "✔️";
+}
