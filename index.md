@@ -15,7 +15,6 @@ npm install -g imbricate
 {% endcapture %}
 
 {% include copyable/copyable-text-highlight.html
-    no-dynamic-warning=true
     shell="any-terminal"
     language="shell"
     text=install-imbricate
