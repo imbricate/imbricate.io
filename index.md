@@ -4,7 +4,7 @@ layout: home
 
 # Imbricate.io
 
-Imbricate is a framework to build document storage and sharing platform.
+Imbricate is a framework to build document storage and sharing platform. With Imbricate, we provides a way to manage your documents that you have full control with your data, and how what platform, interface you want to using them.
 
 ## Quick Start
 
@@ -15,6 +15,12 @@ npm install -g imbricate
 ```
 
 Interested in something other than a CLI? Check out the [Awesome Imbricate](/awesome) list for what our community built.
+
+## Use Imbricate
+
+Staring using Imbricate only takes minutes. 
+
+See the [Use Imbricate](/use) guide.
 
 ## Develop with Imbricate
 
