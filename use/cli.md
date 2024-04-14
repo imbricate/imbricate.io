@@ -31,3 +31,19 @@ imbricate origin add file-system <ORIGIN-NAME> <ORIGIN-PATH>
 %}
 
 While `<ORIGIN-NAME>` is the name of the origin and `<ORIGIN-PATH>` is the path to the origin, where the file-system-origin will use to store your documents with markdown and json format.
+
+## Use Origin
+
+Imbricate CLI supports to store and manage your note and scripts file under multiple origins, to separate your data and manage them in a more organized way. Like a [Stack API](/stack) server for home, and store secure file locally for your work.
+
+To set the origin you are currently working with, you can use the following command:
+
+{% capture use-origin %}
+imbricate origin use <ORIGIN-NAME>
+{% endcapture %}
+
+{% include copyable/copyable-text-highlight.html
+    shell="any-terminal"
+    language="shell"
+    text=use-origin
+%}
