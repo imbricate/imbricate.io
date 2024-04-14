@@ -4,6 +4,7 @@
         "codecov",
         "endcapture",
         "forloop",
+        "sandboxed",
         "WMXPY"
     ]
 }
