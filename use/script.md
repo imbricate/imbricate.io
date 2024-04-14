@@ -12,8 +12,14 @@ The Imbricate Scripting feature is powered by [Marked](https://marked.sudo.dog/)
 
 Taking example with Imbricate CLI as the interface, you can run the following command to create a new script file:
 
-```bash
+{% capture create-script %}
 imbricate script create my-script
-```
+{% endcapture %}
+
+{% include copyable/copyable-text-highlight.html
+    shell="any-terminal"
+    language="shell"
+    text=create-script
+%}
 
 This will create a new script file and open it with your default configuration.
