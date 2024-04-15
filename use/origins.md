@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Imbricate Origins
 
 Imbricate Provides the following origins out-of-the-box to provide a place to store and manage your data.
