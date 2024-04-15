@@ -4,6 +4,8 @@ layout: default
 
 # Develop with Imbricate
 
+Imbricate is a open source project managed under the [Imbricate GitHub Organization](https://github.com/imbricate) / [Package Status](/status).
+
 Imbricate are separated by three layers.
 
 - Frontend Interface
