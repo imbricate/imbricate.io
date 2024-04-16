@@ -39,6 +39,14 @@ print("Hello, World!");
     text=write-script
 %}
 
+The `interface:io` is a built-in interface provided by the Imbricate CLI, the Front-end and interface layer of your setup. 
+
+- `interface:*` Front-end provided features
+- `origin:*` Backend provided features
+- `core:*` Core provided features
+
+You could visit the origin specific or interface specific page to learn what each layer and setup provides for you script development.
+
 ## Running a Script
 
 To run a script, you can use the following command:
