@@ -17,6 +17,7 @@ plugins:
   - jekyll-github-metadata
 exclude:
   - .jekyll-cache/
+  - .vscode/
   - docs/
   - gemfiles/
   - Gemfile
