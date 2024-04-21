@@ -42,4 +42,4 @@ imbricate page render -c <collection-name> -i <page-identifier> -e <template-nam
     text=render-page-template
 %}
 
-The template could includes some placeholders to let imbricate CLI to replace them with the page content. You could visit the [Template](/template) page to learn more about how to create a template for your page.
+The template could includes some placeholders to let imbricate CLI to replace them with the page content. You could visit the [Imbricate CLI Render Template](/use/cli/template.md) page to learn more about how to create a template for your page.

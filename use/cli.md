@@ -51,3 +51,4 @@ imbricate origin use <ORIGIN-NAME>
 ## Advanced Usage
 
 - [Render Page with Imbricate CLI](/use/cli/render)
+- [Imbricate CLI Render Template](/use/cli/template)
