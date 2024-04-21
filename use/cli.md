@@ -47,3 +47,7 @@ imbricate origin use <ORIGIN-NAME>
     language="shell"
     text=use-origin
 %}
+
+## Advanced Usage
+
+- [Render Page with Imbricate CLI](/use/cli/render)
