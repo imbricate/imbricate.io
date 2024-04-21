@@ -6,6 +6,8 @@ layout: home
 
 Imbricate is a framework to build document storage and sharing platform. With Imbricate, we provides a way to manage your documents that you have full control with your data, and how what platform, interface you want to using them.
 
+[Package Status](/status)
+
 ## Quick Start
 
 Using the Imbricate CLI is the fastest way to get started with Imbricate. Install the CLI using npm:

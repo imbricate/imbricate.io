@@ -6,11 +6,14 @@ layout: default
 
 Imbricate CLI template supports placeholders to let imbricate CLI to replace them with the page content. 
 
-- {{content}}
-- {{title}}
+{% raw %}
+- `{{content}}`
+- `{{title}}`
+{% endraw %}
 
 For example, you can create a template with the following content:
 
+{% raw %}
 ```html
 <!DOCTYPE html>
 <html>
@@ -23,3 +26,4 @@ For example, you can create a template with the following content:
 </body>
 </html>
 ```
+{% endraw %}
