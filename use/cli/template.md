@@ -13,8 +13,8 @@ Imbricate CLI template supports placeholders to let imbricate CLI to replace the
 
 For example, you can create a template with the following content:
 
+{% capture example-template-1 %}
 {% raw %}
-```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -25,5 +25,10 @@ For example, you can create a template with the following content:
     <div>{{content}}</div>
 </body>
 </html>
-```
 {% endraw %}
+{% endcapture %}
+
+{% include copyable/copyable-text-highlight.html
+    language="html"
+    text=example-template-1
+%}

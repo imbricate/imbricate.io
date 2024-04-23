@@ -50,6 +50,11 @@
 {{ include.text }}
 {% endhighlight %}
 
+{% when 'html' %}
+{% highlight html %}
+{{ include.text }}
+{% endhighlight %}
+
 {% when 'yaml' %}
 {% highlight yaml %}
 {{ include.text }}
