@@ -27,7 +27,18 @@ layout: default
 
 ## [Imbricate Markdown Render](https://github.com/Imbricate/Imbricate-Markdown-Render)
 
+Imbricate Markdown Render is the markdown renderer for Imbricate. It is a plugin for the Imbricate Core that renders markdown files into HTML.
+
 [![Continuous Integration](https://github.com/Imbricate/Imbricate-Markdown-Render/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate-Markdown-Render/Imbricate/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/Imbricate/Imbricate-Markdown-Render/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-Markdown-Render)
 [![npm version](https://badge.fury.io/js/%40imbricate%2Fmarkdown-render.svg)](https://badge.fury.io/js/%40imbricate%2Fmarkdown-render)
 [![downloads](https://img.shields.io/npm/dm/@imbricate/markdown-render.svg)](https://www.npmjs.com/package/@imbricate/markdown-render)
+
+## [Imbricate Local Fundamental](https://github.com/Imbricate/Imbricate-Local-Fundamental)
+
+Imbricate Local Fundamental is a plugin for the Imbricate Core that provides the fundamental functionality for the local file system configuration, editing, and persistance.
+
+[![Continuous Integration](https://github.com/Imbricate/Imbricate-Local-Fundamental/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Imbricate-Local-Fundamental/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/Imbricate/Imbricate-Local-Fundamental/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-Local-Fundamental)
+[![npm version](https://badge.fury.io/js/%40imbricate%2Flocal-fundamental.svg)](https://badge.fury.io/js/%40imbricate%2Flocal-fundamental)
+[![downloads](https://img.shields.io/npm/dm/@imbricate/local-fundamental.svg)](https://www.npmjs.com/package/@imbricate/local-fundamental)
