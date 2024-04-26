@@ -10,7 +10,9 @@ Imbricate is a framework to build document storage and sharing platform. With Im
 
 ## Quick Start
 
-Using the Imbricate CLI is the fastest way to get started with Imbricate. Install the CLI using npm:
+The Imbricate VSCode extension is the fastest way to get started with Imbricate. Install the extension from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate).
+
+You can also use the Imbricate CLI, which is the more functional way to get started with Imbricate. Install the CLI using npm:
 
 {% capture install-imbricate %}
 npm install -g imbricate
