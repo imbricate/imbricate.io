@@ -15,3 +15,5 @@ imbricate page list -c <collection-name> -d <directory>
     language="shell"
     text=list-page-in-directory
 %}
+
+Where, `<collection-name>` is the name of the collection, and `<directory>` is the directory you want to list the pages in, use slash `/` to separate the directories. For most of page related commands, you can use the `-d` flag to specify the directory you want to operate on, or not to specify the directory to operate on the root directory of the collection.
