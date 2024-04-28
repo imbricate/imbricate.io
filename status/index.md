@@ -11,12 +11,18 @@ layout: default
 [![npm version](https://badge.fury.io/js/%40imbricate%2Fcore.svg)](https://badge.fury.io/js/%40imbricate%2Fcore)
 [![downloads](https://img.shields.io/npm/dm/@imbricate/core.svg)](https://www.npmjs.com/package/@imbricate/core)
 
+## Interface Packages
+
 ### [Imbricate CLI](https://github.com/imbricate/Imbricate-CLI)
 
 [![Continuous Integration](https://github.com/Imbricate/Imbricate-CLI/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate-CLI/Imbricate/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/Imbricate/Imbricate-CLI/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-CLI)
 [![npm version](https://badge.fury.io/js/imbricate.svg)](https://badge.fury.io/js/imbricate)
 [![downloads](https://img.shields.io/npm/dm/imbricate.svg)](https://www.npmjs.com/package/imbricate)
+
+### [Imbricate Code Extension](https://github.com/imbricate/Imbricate-Code-Extensnion)
+
+Imbricate Code Extension is the VSCode extension published on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate) for Imbricate. It provides the full feature and visual interface for Imbricate.
 
 ## Origin Packages
 
