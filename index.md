@@ -4,6 +4,8 @@ layout: home
 
 # Imbricate
 
+![Imbricate Logo](/icon.png){:width="128px"}
+
 Imbricate is a framework to build document storage and sharing platform. With Imbricate, we provides a way to manage your documents that you have full control with your data, and how what platform, interface you want to using them.
 
 [Package Status](/status)
