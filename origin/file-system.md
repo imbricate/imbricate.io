@@ -12,41 +12,65 @@ GitHub: [imbricate/imbricate-origin-file-system](https://github.com/imbricate/im
 
 Input:
 
-```typescript
+{% capture create-page-input %}
 {
     readonly collection: string;
     readonly title: string;
 
     readonly content?: string;
 }
-```
+{% endcapture %}
+
+{% include copyable/copyable-text-highlight.html
+    shell="any-terminal"
+    language="typescript"
+    text=create-page
+%}
 
 Output:
 
-```typescript
+{% capture create-page-output %}
 {
     readonly title: string;
     readonly identifier: string;
 }
-```
+{% endcapture %}
 
-### `import { searchPages} from "origin:page"`
+{% include copyable/copyable-text-highlight.html
+    shell="any-terminal"
+    language="typescript"
+    text=create-page-output
+%}
+
+### `import { searchPages } from "origin:page"`
 
 Input:
 
-```typescript
+{% capture search-pages-input %}
 {
     readonly collection: string;
     readonly keyword: string;
 
     readonly exact?: boolean;
 }
-```
+{% endcapture %}
+
+{% include copyable/copyable-text-highlight.html
+    shell="any-terminal"
+    language="typescript"
+    text=search-pages-input
+%}
 
 Output:
 
-```typescript
+{% capture search-pages-output %}
 {
     readonly results: ImbricatePageSearchResult[];
 }
-```
+{% endcapture %}
+
+{% include copyable/copyable-text-highlight.html
+    shell="any-terminal"
+    language="typescript"
+    text=search-pages-output
+%}
