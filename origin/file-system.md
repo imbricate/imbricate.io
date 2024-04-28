@@ -24,7 +24,7 @@ Input:
 {% include copyable/copyable-text-highlight.html
     shell="any-terminal"
     language="typescript"
-    text=create-page
+    text=create-page-input
 %}
 
 Output:
