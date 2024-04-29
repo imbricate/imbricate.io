@@ -20,7 +20,7 @@ layout: default
 [![npm version](https://badge.fury.io/js/imbricate.svg)](https://badge.fury.io/js/imbricate)
 [![downloads](https://img.shields.io/npm/dm/imbricate.svg)](https://www.npmjs.com/package/imbricate)
 
-### [Imbricate Code Extension](https://github.com/imbricate/Imbricate-Code-Extensnion)
+### [Imbricate Code Extension](https://github.com/imbricate/Imbricate-Code-Extension)
 
 Imbricate Code Extension is the VSCode extension published on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate) for Imbricate. It provides the full feature and visual interface for Imbricate.
 
