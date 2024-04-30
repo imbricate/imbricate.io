@@ -23,3 +23,5 @@ The Backend Origin is the data storage and retrieval layer. It is responsible fo
 The Stack API is an API standard interface that can be used to develop a generic server-side management solution for Imbricate, and reuse the infrastructure Stack API Origin. See [Imbricate Stack API](https://github.com/imbricate/imbricate-stack-api).
 
 As a server side is capable of the API schema of the Stack API, any Imbricate interface could point to the server via [Imbricate Stack API Origin](https://github.com/imbricate/imbricate-origin-stack-api).
+
+To implement the Stack API so that it can be used by the Imbricate stack-api origin, follow the API guide of the [Imbricate Stack API Guide](https://stack-api.imbricate.io)
