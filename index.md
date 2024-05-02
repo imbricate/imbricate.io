@@ -39,3 +39,7 @@ See the [Use Imbricate](/use) guide.
 Find out the fundamentals of the design of Imbricate framework. Learn how to build your own interface or origin.
 
 See the [Develop with Imbricate](/develop) guide.
+
+## Documenting with Imbricate
+
+Imbricate added support for [Imbricate Quill](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill) a extension of VSCode to provide AI powered writing experience, while you are writing your document.
