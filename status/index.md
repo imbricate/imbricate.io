@@ -24,6 +24,8 @@ layout: default
 
 Imbricate Code Extension is the VSCode extension published on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate) for Imbricate. It provides the full feature and visual interface for Imbricate.
 
+[![VSCode Marketplace Version](https://vsmarketplacebadges.dev/version/imbricate.imbricate.svg)](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate)
+
 ## Origin Packages
 
 ### [Imbricate File System Origin](https://github.com/Imbricate/Imbricate-Origin-File-System)
@@ -58,3 +60,5 @@ Imbricate Local Fundamental is a plugin for the Imbricate Core that provides the
 ### [Imbricate Quill Extension](https://github.com/imbricate/Quill-Code-Extension)
 
 Imbricate Quill Extension is the VSCode extension published on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill) for Imbricate. It provides the AI powered writing experience for Imbricate.
+
+[![VSCode Marketplace Version](https://vsmarketplacebadges.dev/version/imbricate.imbricate-quill.svg)](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill)
