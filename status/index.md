@@ -6,6 +6,8 @@ layout: default
 
 ### [Imbricate Core](https://github.com/imbricate/Imbricate)
 
+Imbricate is a document management system that uses a graph database to store and manage documents. It is designed to be a flexible and extensible system that can be used to manage any type of document. The core package provides the basic functionality and interface for end interface and origin packages to consume and implement.
+
 [![Continuous Integration](https://github.com/Imbricate/Imbricate/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Imbricate/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/Imbricate/Imbricate/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate)
 [![npm version](https://badge.fury.io/js/%40imbricate%2Fcore.svg)](https://badge.fury.io/js/%40imbricate%2Fcore)
@@ -14,6 +16,8 @@ layout: default
 ## Interface Packages
 
 ### [Imbricate CLI](https://github.com/imbricate/Imbricate-CLI)
+
+Imbricate CLI is the command line interface for Imbricate. It provides the full feature and command line interface for Imbricate.
 
 [![Continuous Integration](https://github.com/Imbricate/Imbricate-CLI/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate-CLI/Imbricate/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/Imbricate/Imbricate-CLI/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-CLI)
