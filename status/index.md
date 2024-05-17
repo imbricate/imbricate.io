@@ -77,3 +77,10 @@ Imbricate Local Fundamental is a plugin for the Imbricate Core that provides the
 [![codecov](https://codecov.io/gh/Imbricate/Imbricate-Local-Fundamental/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-Local-Fundamental)
 [![npm version](https://badge.fury.io/js/%40imbricate%2Flocal-fundamental.svg)](https://badge.fury.io/js/%40imbricate%2Flocal-fundamental)
 [![downloads](https://img.shields.io/npm/dm/@imbricate/local-fundamental.svg)](https://www.npmjs.com/package/@imbricate/local-fundamental)
+
+## Testing Packages
+
+### [Imbricate-Testing-Origin-Jest](https://github.com/imbricate/Imbricate-Testing-Origin-Jest)
+
+[![npm version](https://badge.fury.io/js/%40imbricate%2Ftest-origin-jest.svg)](https://badge.fury.io/js/%40imbricate%2Ftest-origin-jest)
+[![downloads](https://img.shields.io/npm/dm/@imbricate/test-origin-jest.svg)](https://www.npmjs.com/package/@imbricate/test-origin-jest)
