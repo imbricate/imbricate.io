@@ -30,6 +30,14 @@ Imbricate Code Extension is the VSCode extension published on [VSCode Marketplac
 
 [![VSCode Marketplace Version](https://vsmarketplacebadges.dev/version/imbricate.imbricate.svg)](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate)
 
+## Documenting with Imbricate
+
+### [Imbricate Quill Extension](https://github.com/imbricate/Quill-Code-Extension)
+
+Imbricate Quill Extension is the VSCode extension published on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill) for Imbricate. It provides the AI powered writing experience for Imbricate.
+
+[![VSCode Marketplace Version](https://vsmarketplacebadges.dev/version/imbricate.imbricate-quill.svg)](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill)
+
 ## Origin Packages
 
 ### [Imbricate File System Origin](https://github.com/Imbricate/Imbricate-Origin-File-System)
@@ -69,11 +77,3 @@ Imbricate Local Fundamental is a plugin for the Imbricate Core that provides the
 [![codecov](https://codecov.io/gh/Imbricate/Imbricate-Local-Fundamental/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-Local-Fundamental)
 [![npm version](https://badge.fury.io/js/%40imbricate%2Flocal-fundamental.svg)](https://badge.fury.io/js/%40imbricate%2Flocal-fundamental)
 [![downloads](https://img.shields.io/npm/dm/@imbricate/local-fundamental.svg)](https://www.npmjs.com/package/@imbricate/local-fundamental)
-
-## Documenting with Imbricate
-
-### [Imbricate Quill Extension](https://github.com/imbricate/Quill-Code-Extension)
-
-Imbricate Quill Extension is the VSCode extension published on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill) for Imbricate. It provides the AI powered writing experience for Imbricate.
-
-[![VSCode Marketplace Version](https://vsmarketplacebadges.dev/version/imbricate.imbricate-quill.svg)](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill)
