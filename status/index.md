@@ -94,3 +94,5 @@ Imbricate Local Fundamental is a plugin for the Imbricate Core that provides the
 [![Continuous Integration](https://github.com/Imbricate/Imbricate-Testing-Origin-Jest/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Imbricate-Testing-Origin-Jest/actions/workflows/ci.yml)
 [![npm version](https://badge.fury.io/js/%40imbricate%2Ftest-origin-jest.svg)](https://badge.fury.io/js/%40imbricate%2Ftest-origin-jest)
 [![downloads](https://img.shields.io/npm/dm/@imbricate/test-origin-jest.svg)](https://www.npmjs.com/package/@imbricate/test-origin-jest)
+
+The Imbricate Testing Origin Jest is a testing package for the Imbricate Origin that uses Jest to test the origin.
