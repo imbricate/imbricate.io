@@ -58,6 +58,15 @@ Imbricate File System Origin is the file system origin for Imbricate. It use a f
 
 Imbricate Mongo Origin is the MongoDB origin for Imbricate. It use a MongoDB database as the origin of the document.
 
+### [Imbricate Simple File System Origin](https://github.com/Imbricate/Imbricate-Origin-Simple-File-System)
+
+[![Continuous Integration](https://github.com/Imbricate/Imbricate-Origin-Simple-File-System/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate-Origin-Simple-File-System/Imbricate/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/Imbricate/Imbricate-Origin-Simple-File-System/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-Origin-Simple-File-System)
+[![npm version](https://badge.fury.io/js/%40imbricate%2Forigin-simple-file-system.svg)](https://badge.fury.io/js/%40imbricate%2Forigin-simple-file-system)
+[![downloads](https://img.shields.io/npm/dm/@imbricate/origin-simple-file-system.svg)](https://www.npmjs.com/package/@imbricate/origin-simple-file-system)
+
+Imbricate File System Origin is the simple file system origin for Imbricate. It use pure file system folder structure as the origin of the document.
+
 ## Support Packages
 
 ### [Imbricate Markdown Render](https://github.com/Imbricate/Imbricate-Markdown-Render)
