@@ -17,7 +17,7 @@ Imbricate is a document management system that uses a graph database to store an
 
 ### [Imbricate CLI](https://github.com/imbricate/Imbricate-CLI)
 
-[![Continuous Integration](https://github.com/Imbricate/Imbricate-CLI/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate-CLI/Imbricate/actions/workflows/ci.yml)
+[![Continuous Integration](https://github.com/Imbricate/Imbricate-CLI/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Imbricate-CLI/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/Imbricate/Imbricate-CLI/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-CLI)
 [![npm version](https://badge.fury.io/js/imbricate.svg)](https://badge.fury.io/js/imbricate)
 [![downloads](https://img.shields.io/npm/dm/imbricate.svg)](https://www.npmjs.com/package/imbricate)
@@ -42,7 +42,7 @@ Imbricate Quill Extension is the VSCode extension published on [VSCode Marketpla
 
 ### [Imbricate File System Origin](https://github.com/Imbricate/Imbricate-Origin-File-System)
 
-[![Continuous Integration](https://github.com/Imbricate/Imbricate-Origin-File-System/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate-Origin-File-System/Imbricate/actions/workflows/ci.yml)
+[![Continuous Integration](https://github.com/Imbricate/Imbricate-Origin-File-System/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Imbricate-Origin-File-System/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/Imbricate/Imbricate-Origin-File-System/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-Origin-File-System)
 [![npm version](https://badge.fury.io/js/%40imbricate%2Forigin-file-system.svg)](https://badge.fury.io/js/%40imbricate%2Forigin-file-system)
 [![downloads](https://img.shields.io/npm/dm/@imbricate/origin-file-system.svg)](https://www.npmjs.com/package/@imbricate/origin-file-system)
@@ -51,7 +51,7 @@ Imbricate File System Origin is the file system origin for Imbricate. It use a f
 
 ### [Imbricate Mongo Origin](https://github.com/Imbricate/Imbricate-Origin-Mongo)
 
-[![Continuous Integration](https://github.com/Imbricate/Imbricate-Origin-Mongo/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate-Origin-Mongo/Imbricate/actions/workflows/ci.yml)
+[![Continuous Integration](https://github.com/Imbricate/Imbricate-Origin-Mongo/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Imbricate-Origin-Mongo/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/Imbricate/Imbricate-Origin-Mongo/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-Origin-Mongo)
 [![npm version](https://badge.fury.io/js/%40imbricate%2Forigin-mongo.svg)](https://badge.fury.io/js/%40imbricate%2Forigin-mongo)
 [![downloads](https://img.shields.io/npm/dm/@imbricate/origin-mongo.svg)](https://www.npmjs.com/package/@imbricate/origin-mongo)
@@ -60,7 +60,7 @@ Imbricate Mongo Origin is the MongoDB origin for Imbricate. It use a MongoDB dat
 
 ### [Imbricate Simple File System Origin](https://github.com/Imbricate/Imbricate-Origin-Simple-File-System)
 
-[![Continuous Integration](https://github.com/Imbricate/Imbricate-Origin-Simple-File-System/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate-Origin-Simple-File-System/Imbricate/actions/workflows/ci.yml)
+[![Continuous Integration](https://github.com/Imbricate/Imbricate-Origin-Simple-File-System/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Imbricate-Origin-Simple-File-System/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/Imbricate/Imbricate-Origin-Simple-File-System/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-Origin-Simple-File-System)
 [![npm version](https://badge.fury.io/js/%40imbricate%2Forigin-simple-file-system.svg)](https://badge.fury.io/js/%40imbricate%2Forigin-simple-file-system)
 [![downloads](https://img.shields.io/npm/dm/@imbricate/origin-simple-file-system.svg)](https://www.npmjs.com/package/@imbricate/origin-simple-file-system)
@@ -71,7 +71,7 @@ Imbricate File System Origin is the simple file system origin for Imbricate. It 
 
 ### [Imbricate Markdown Render](https://github.com/Imbricate/Imbricate-Markdown-Render)
 
-[![Continuous Integration](https://github.com/Imbricate/Imbricate-Markdown-Render/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate-Markdown-Render/Imbricate/actions/workflows/ci.yml)
+[![Continuous Integration](https://github.com/Imbricate/Imbricate-Markdown-Render/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Imbricate-Markdown-Render/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/Imbricate/Imbricate-Markdown-Render/branch/main/graph/badge.svg)](https://codecov.io/gh/Imbricate/Imbricate-Markdown-Render)
 [![npm version](https://badge.fury.io/js/%40imbricate%2Fmarkdown-render.svg)](https://badge.fury.io/js/%40imbricate%2Fmarkdown-render)
 [![downloads](https://img.shields.io/npm/dm/@imbricate/markdown-render.svg)](https://www.npmjs.com/package/@imbricate/markdown-render)
