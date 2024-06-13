@@ -26,6 +26,7 @@ Imbricate CLI is the command line interface for Imbricate. It provides the full 
 
 ### [Imbricate Code Extension](https://github.com/imbricate/Imbricate-Code-Extension)
 
+[![Continuous Integration](https://github.com/Imbricate/Imbricate-Code-Extension/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Imbricate-Code-Extension/actions/workflows/ci.yml)
 [![VSCode Marketplace Version](https://vsmarketplacebadges.dev/version/imbricate.imbricate.svg)](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate)
 
 Imbricate Code Extension is the VSCode extension published on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate) for Imbricate. It provides the full feature and visual interface for Imbricate.
@@ -34,6 +35,7 @@ Imbricate Code Extension is the VSCode extension published on [VSCode Marketplac
 
 ### [Imbricate Quill Extension](https://github.com/imbricate/Quill-Code-Extension)
 
+[![Continuous Integration](https://github.com/Imbricate/Quill-Code-Extension/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Quill-Code-Extension/actions/workflows/ci.yml)
 [![VSCode Marketplace Version](https://vsmarketplacebadges.dev/version/imbricate.imbricate-quill.svg)](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill)
 
 Imbricate Quill Extension is the VSCode extension published on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill) for Imbricate. It provides the AI powered writing experience for Imbricate.
