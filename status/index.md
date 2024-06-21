@@ -33,9 +33,9 @@ Imbricate Code Extension is the VSCode extension published on [VSCode Marketplac
 
 ## Documenting with Imbricate
 
-### [Imbricate Quill Extension](https://github.com/imbricate/Quill-Code-Extension)
+### [Imbricate Quill Extension](https://github.com/imbricate/Imbricate-Code-Extension-Quill)
 
-[![Continuous Integration](https://github.com/Imbricate/Quill-Code-Extension/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Quill-Code-Extension/actions/workflows/ci.yml)
+[![Continuous Integration](https://github.com/Imbricate/Imbricate-Code-Extension-Quill/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Imbricate-Code-Extension-Quill/actions/workflows/ci.yml)
 [![VSCode Marketplace Version](https://vsmarketplacebadges.dev/version/imbricate.imbricate-quill.svg)](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill)
 
 Imbricate Quill Extension is the VSCode extension published on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill) for Imbricate. It provides the AI powered writing experience for Imbricate.
