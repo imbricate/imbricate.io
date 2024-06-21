@@ -40,6 +40,13 @@ Imbricate Code Extension is the VSCode extension published on [VSCode Marketplac
 
 Imbricate Quill Extension is the VSCode extension published on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-quill) for Imbricate. It provides the AI powered writing experience for Imbricate.
 
+### [Imbricate Sketch Extension](https://github.com/imbricate/Imbricate-Code-Extension-Sketch)
+
+[![Continuous Integration](https://github.com/Imbricate/Imbricate-Code-Extension-Sketch/actions/workflows/ci.yml/badge.svg)](https://github.com/Imbricate/Imbricate-Code-Extension-Sketch/actions/workflows/ci.yml)
+[![VSCode Marketplace Version](https://vsmarketplacebadges.dev/version/imbricate.imbricate-sletch.svg)](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-sletch)
+
+Imbricate Sketch Extension is the VSCode extension published on [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=imbricate.imbricate-sketch) for Imbricate. It provides markdown and javascript functionality for Imbricate.
+
 ## Origin Packages
 
 ### [Imbricate File System Origin](https://github.com/Imbricate/Imbricate-Origin-File-System)
